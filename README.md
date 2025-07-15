@@ -75,7 +75,7 @@ You can deploy the project using GitHub Pages or Netlify and place the live link
 ## 🙇‍♂️ Author
 
 **Rizwan Shah**
-Connect with me on [LinkedIn](https://www.linkedin.com/) or [GitHub](https://github.com/yourusername)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/rizwan-shah-574851166/) or [GitHub](https://github.com/rizwanshah9792/)
 📧 [rizwanshah9792@gmail.com](mailto:rizwanshah9792@gmail.com)
 
 ---
