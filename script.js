@@ -20,7 +20,12 @@ else {
     document.querySelector("h1").innerHTML = "Draw....";
 }
 
-// Add the refresh button
 document.querySelector("button").addEventListener("click", function() {
-    location.reload();
+    const sound = document.getElementById("rollSound");
+    sound.currentTime = 0; // restart sound if clicked again quickly
+    sound.play();
+
+    setTimeout(function() {
+        location.reload();
+    }, 300); // wait 300ms to let sound play before reload
 });
